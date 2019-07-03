@@ -5,12 +5,12 @@
 -Mạng là tập hợp tất cả các thiết bị được kết nối với nhau bằng phương tiện truyền tải vật lý
 ## 2.Advantages and Disadvantages of Network 
 ### Advantages 
-Chia sẻ các thiết bị như máy in giúp tiết kiệm tiền.
-Trang web ( phần mềm) giấy phép có thể rẻ hơn so với việc mua một số giấy phép độc lập.
-Tập tin có thể dễ dàng được chia sẻ giữa những người dùng.
-Mạng người dùng có thể giao tiếp qua email và tin nhắn tức thời.
-Bảo mật rất tốt - người dùng không thể xem các tệp của người dùng khác không giống như trên các máy độc lập.
-Dữ liệu dễ dàng sao lưu vì tất cả dữ liệu được lưu trữ trên máy chủ tập tin.
+-Chia sẻ các thiết bị như máy in giúp tiết kiệm tiền.
+-Trang web ( phần mềm) giấy phép có thể rẻ hơn so với việc mua một số giấy phép độc lập.
+-Tập tin có thể dễ dàng được chia sẻ giữa những người dùng.
+-Mạng người dùng có thể giao tiếp qua email và tin nhắn tức thời.
+-Bảo mật rất tốt - người dùng không thể xem các tệp của người dùng khác không giống như trên các máy độc lập.
+-Dữ liệu dễ dàng sao lưu vì tất cả dữ liệu được lưu trữ trên máy chủ tập tin.
 ### Disavantages 
 Mua cáp mạng và máy chủ tập tin có thể tốn kém.
 Quản lý một mạng lớn rất phức tạp, đòi hỏi phải đào tạo và người quản lý mạng thường cần được tuyển dụng.
@@ -27,5 +27,7 @@ Network Server là máy tính trên chính mạng.Máy chủ cung cấp các ch�
 Network Interface Cards (NIC) là Để một thiết bị có thể kết nối với mạng, nó cần có thẻ giao diện mạng (NIC). NIC, còn được gọi là bộ điều hợp mạng, cho phép thiết bị gửi và nhận dữ liệu qua mạng thông qua việc sử dụng cáp Ethernet hoặc Kết nối không dây. 
 Nếu không cài đặt NIC, thiết bị sẽ không thể kết nối với mạng.
 
+6.Describe the network topologies(miêu tả cấu trúc liên kết mạng)
+là sự sắp xếp của các yếu tố ( liên kết , nút , v.v.) của mạng truyền thông. topo mạng có thể được sử dụng để xác định hoặc mô tả sự sắp xếp của nhiều loại hình mạng viễn thông, bao gồm cả chỉ huy và kiểm soát các mạng vô tuyến, công nghiệp fieldbusses và mạng máy tính .
 
 
